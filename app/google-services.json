@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015594621870",
+    "project_id": "taskassigner-e6d29",
+    "storage_bucket": "taskassigner-e6d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015594621870:android:54947947b0f468e574c63f",
+        "android_client_info": {
+          "package_name": "com.taskassigner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015594621870-mahcoirii3n0o730crv8m5k6ppi438qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfVqrdPpWJWUZi8TAVAA8SmyZ3q6IEPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015594621870-mahcoirii3n0o730crv8m5k6ppi438qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
