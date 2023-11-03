@@ -3,6 +3,8 @@
 
 The goal of this app is to provide an interface where team members can create projects and assign required people to that project as well as the subtasks within that project.
 
+APK: https://drive.google.com/file/d/1fP3_EGCCMYyJf8o9_pimUEF4rO9xBESh/view?usp=sharing
+
 Here is a demo video of the project.
 
 https://github.com/harshvardhan2511/Task-Assigner/assets/79086759/248ec4c3-98c3-4241-8f8c-d404e3b0bc56
